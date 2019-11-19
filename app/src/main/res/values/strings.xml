@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ventura_shop</string>
+    <string name="inside_search">O que você esta procurando?</string>
+    <string name="product_offer_title">OFERTAS DO DIA</string>
+    <string name="product_details">DETALHES DO PRODUTO</string>
+    <string name="variation">Variação</string>
+    <string name="cep">CEP</string>
+    <string name="input"> Digite Aqui</string>
+    <string name="calculate">Calcular</string>
+    <string name="calculate_cep_title"> A calcular</string>
+    <string name="calculate_desc">informe o CEP para o valor do frete</string>
+    <string name="seller">Vendido por:</string>
+    <string name="buy">Comprar</string>
+    <string name="price_prefix"> Por</string>
+</resources>

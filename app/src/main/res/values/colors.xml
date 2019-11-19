@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#213a79</color>
+    <color name="colorPrimaryDark">#213a79</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="defaultBlack">#000000</color>
+    <color name="defaultWhite">#ffffff</color>
+    <color name="fadedLetter">#ababab</color>
+    <color name= "blueItem">#4BB8EF</color>
+    <color name="grayBack">#f0f0f0</color>
+    <color name="darkGray">#7c7c7c</color>
+    <color name="succesGreen">#5bc101</color>
+</resources>
