@@ -93,6 +93,7 @@ public class ProductDetailActivity extends Activity
             loader.execute(image.getURL());
 
             miniThumbnail.setOnClickListener(imageSelectorListener);
+            miniThumbnail.setScaleType(ImageView.ScaleType.FIT_XY);
 
             if(noDisplay)
             {

@@ -73,7 +73,6 @@ public class APIRequester extends AsyncTask<String,Void, JSONArray>
         {
             e.printStackTrace();
         }
-        //TODO Maybe put closeable vars outside and close in FINALLY
 
         return result;
     }
